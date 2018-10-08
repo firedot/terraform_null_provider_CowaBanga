@@ -34,7 +34,7 @@ terraform apply
 ```
 
 
-This will provision the configuration from the main.tf file, which will run: 
+This will provision the code from the main.tf file, which will run: 
 
 ```
 echo CowaBanga
